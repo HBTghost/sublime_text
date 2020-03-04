@@ -1,0 +1,5 @@
+{
+  "target": "terminus_exec",
+  "cancel": "terminus_cancel_build",
+  "shell_cmd": "ubuntu run bash",
+}

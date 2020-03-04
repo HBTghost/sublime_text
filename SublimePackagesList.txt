@@ -1,0 +1,22 @@
+{
+    "installed_packages": [
+        "Color Highlight", 
+        "Dracula Color Scheme", 
+        "Emmet", 
+        "Extract Sublime Package", 
+        "FileIcons", 
+        "Git", 
+        "Github Notifications", 
+        "GitSavvy", 
+        "GitStatusBar", 
+        "LaTeXTools", 
+        "Package Control", 
+        "PackageSync", 
+        "RainbowBrackets", 
+        "Status Bar Time", 
+        "StatusMessage", 
+        "Terminus", 
+        "Vintageous", 
+        "Vue Syntax Highlight"
+    ]
+}

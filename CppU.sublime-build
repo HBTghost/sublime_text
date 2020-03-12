@@ -1,5 +1,0 @@
-{
-	"shell_cmd": "ubuntu run bash -c 'g++ -o out $file_name' && ubuntu run bash -c './out'",
-	"working_dir": "$file_path",
-	"shell": true
-}

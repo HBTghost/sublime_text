@@ -1,5 +1,0 @@
-{
-    "shell_cmd": "ubuntu run bash -c 'python3 \"$file_name\"'",
-    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-    "selector": "source.python"
-}
